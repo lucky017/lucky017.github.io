@@ -1,0 +1,56 @@
+html {
+    font-family: "VT323", monospace;
+    font-style: normal;
+    font-size: 30px;
+    background-color: black;
+}
+body {
+    //font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    //font-size: 20px;
+    width: 800px;
+    background-color: darkred;
+    color: black;
+    padding: 20px 100px 20px 100px;
+    margin: 20px 130px 20px 170px;
+}
+h2 {
+    text-align: center;
+    margin: 0;
+    text-shadow: peachpuff -1px 1px 3px;
+}
+p {
+    margin: 20px auto 0px;
+}
+li {
+    margin: 0;
+}
+button {
+    margin-left: 350px;
+}
+/* ------------Div------------ */
+.help {
+    color: limegreen;
+}
+.box {
+    display: flex;
+    margin: 0;
+}
+.list {
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.mordor {
+    width: 600px;
+    height: auto;
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    align-content: center;
+}
+.vader {
+    margin: 20px 10px 10px 100px;
+    width: 50%;
+    height: 50%;
+    display: block;
+}
